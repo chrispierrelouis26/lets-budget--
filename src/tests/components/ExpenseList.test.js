@@ -15,7 +15,3 @@ test('should render ExpenseList with empty message', ()=> {
     expect(wrapper).toMatchSnapshot();
 })
 
-// create test file
-// grab imports 
-// create test case that renders actually componenst ExpenseListItem with fixture data 
-//create snapshot
