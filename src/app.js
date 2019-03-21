@@ -11,6 +11,7 @@ import './styles/style.scss';
 import './firebase/firebase'
 import 'react-dates/lib/css/_datepicker.css';
 
+
 const store = configureStore();
 
 
