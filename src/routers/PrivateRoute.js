@@ -25,3 +25,8 @@ const mapStateToProps  = (state) => ({
 })
 
 export default connect(mapStateToProps)(PrivateRoute)
+
+//create publicRoute (copy of Private route)
+// redirect to dashboard if logged in
+//render component if not logged in
+// use it for LoginPage
